@@ -1,7 +1,18 @@
-## Hi there 👋
 
-- 🔭 I’m currently working on EaseMyDeal
-- 🌱 I’m currently learning Software Engineering
-- 💬 Ask me about `Flutter`, `Dart`,
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Engineering
+# Hi, I'm Jiyad 👋
+
+💻 Developer | 🚀 Tech Enthusiast
+
+- 🌱 Currently learning new technologies
+- 💡 Interested in software development
+- 🤝 Open to collaborating on projects
+
+### 🛠️ Technologies
+`Flutter` `Dart` `Python` `Git` `GitHub`
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiyadahammadinditab&show_icons=true&theme=transparent)
+
+---
+
+⭐ Thanks for visiting my profile!
